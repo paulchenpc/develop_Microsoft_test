@@ -1,5 +1,7 @@
 import time
 
+print("Hello World!")
+
 minutes = int(input("Please Enter the number of mimutes to focus:"))
 seconds = minutes * 60
 
